@@ -1,1 +1,1 @@
-Theses are my first e2e cypress tests.
+These are my first e2e cypress tests.
